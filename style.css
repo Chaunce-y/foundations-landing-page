@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+
+}
+#section1 {
+
+}
+
+#section2 {
+
+}
+
+#section3 {
+
+}
+
+#section4 {
+  
+}
+div.nav-links {
+  justify-content: flex-end;
+}
+.footer {
+  background-color: #1f2937;
+  justify-content: center;
+}
